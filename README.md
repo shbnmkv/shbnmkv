@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shbnmkv
-- 👀 I’m interested in internet of things
+- 👀 Lagi Belajar IoT
 
 
 <!---
